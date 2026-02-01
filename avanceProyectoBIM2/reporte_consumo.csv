@@ -1,11 +1,16 @@
 ID;NOMBRE;DIAS;CONSUMO TOTAL;PROMEDIO;PROYECCION;PLAN;ACTUALIZAR;SUGERENCIA;TIPO
-1;Ana Torres;29;19,63;0,68;20,31;60;NO;Limitar juegos;NORMAL
-2;Luis Lopez;21;10,93;0,52;15,61;30;NO;Optimizar redes;BARATO
-3;Maria Perez;15;15,38;1,03;30,77;60;NO;Reducir streaming;NORMAL
-4;Carlos Ruiz;30;10,08;0,34;10,08;30;NO;Limitar juegos;BARATO
-5;Sofia Vega;30;8,07;0,27;8,07;30;NO;Limitar juegos;BARATO
-6;Pedro Mendoza;21;11,29;0,54;16,13;30;NO;Limitar juegos;BARATO
-7;Lucia Castro;30;14,78;0,49;14,78;30;NO;Reducir streaming;BARATO
-8;Juan Ramos;28;10,62;0,38;11,38;30;NO;Reducir streaming;BARATO
-9;Andrea Ortiz;27;14,73;0,55;16,37;30;NO;Limitar juegos;BARATO
-10;Miguel Silva;29;15,10;0,52;15,62;30;NO;Limitar juegos;BARATO
+1;Ana Torres;28;13,09;0,47;14,03;30;NO;Reducir streaming;BARATO
+2;Luis Lopez;19;11,12;0,59;17,55;30;NO;Limitar juegos;BARATO
+3;Maria Perez;12;12,25;1,02;30,62;60;NO;Limitar juegos;NORMAL
+4;Carlos Ruiz;13;8,20;0,63;18,93;30;NO;Limitar juegos;BARATO
+5;Sofia Vega;15;14,37;0,96;28,75;60;NO;Reducir streaming;NORMAL
+6;Pedro Mendoza;25;8,50;0,34;10,20;30;NO;Reducir streaming;BARATO
+7;Lucia Castro;10;7,81;0,78;23,42;60;NO;Limitar juegos;NORMAL
+8;Juan Ramos;10;12,76;1,28;38,29;60;NO;Limitar juegos;NORMAL
+9;Andrea Ortiz;21;11,49;0,55;16,42;30;NO;Limitar juegos;BARATO
+10;Miguel Silva;12;10,18;0,85;25,46;60;NO;Reducir streaming;NORMAL
+
+USUARIOS:; CANT
+Actualizar plan;0
+Plan barato;5
+Plan caro;0

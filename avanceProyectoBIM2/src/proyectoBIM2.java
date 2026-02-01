@@ -127,6 +127,10 @@ public class proyectoBIM2 {
                         extra[i][0], extra[i][1]
                 );
             }
+            fout.format("\nUSUARIOS;CANTIDAD\n");
+            fout.format("Actualizar plan;%d\n", contActualizar);
+            fout.format("Plan barato;%d\n", contBarato);
+            fout.format("Plan caro;%d\n", contCaro);
             fout.close();
             System.out.println("\nArchivo '" + archivo + "' generado correctamente.");
         } catch (Exception e) {

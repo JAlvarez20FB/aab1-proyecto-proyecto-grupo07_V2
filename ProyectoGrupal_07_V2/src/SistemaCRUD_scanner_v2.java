@@ -1,10 +1,9 @@
-
 import java.io.File;
 import java.util.Formatter;
 import java.util.Random;
 import java.util.Scanner;
 
-public class SistemaCRUD_V2 {
+public class SistemaCRUD_scanner_v2 {
     static Scanner tcl = new Scanner(System.in);
 
     public static void main(String[] args) {
@@ -118,4 +117,3 @@ public class SistemaCRUD_V2 {
         }
     }
 }
-
